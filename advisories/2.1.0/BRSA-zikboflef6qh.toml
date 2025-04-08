@@ -15,6 +15,16 @@ package-name = "kernel-6.1"
 patched-version = "6.1.131"
 patched-epoch = "0"
 
+[[advisory.products]]
+package-name = "bottlerocket-kernel-5.15"
+patched-version = "5.15.179"
+patched-epoch = "0"
+
+[[advisory.products]]
+package-name = "bottlerocket-kernel-6.1"
+patched-version = "6.1.131"
+patched-epoch = "0"
+
 [updateinfo]
 author = "jweiw"
 issue-date = 2025-04-02T19:56:55Z
